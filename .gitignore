@@ -11,3 +11,6 @@ __pycache__/
 # Temporarios
 *.tmp
 *.log
+
+# Material pessoal de apoio (nao faz parte da entrega)
+ROTEIRO_VIDEO.md
